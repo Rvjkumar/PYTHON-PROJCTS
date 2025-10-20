@@ -1,0 +1,2 @@
+wether api:84aa021ba37c4900b3f143632252509
+news api: 04ecadc15ddb4b909f0b2a3e93e966fc
